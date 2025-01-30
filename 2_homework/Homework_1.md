@@ -1,5 +1,6 @@
 ### **1. Теоритическая часть**
-    [Откройте форму](https://forms.gle/tNjBnDoy2faHu6R5A)
+
+[Откройте форму](<https://forms.gle/tNjBnDoy2faHu6R5A>)
 
 ### **2. Практическая часть**
     
