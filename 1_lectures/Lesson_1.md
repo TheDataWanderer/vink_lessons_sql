@@ -311,7 +311,7 @@ AND actual_departure IS NOT NULL;
 
 Хотим найти всех, у кого **нет номера**:  
 ```sql
-SELECT * FROM contacts WHERE phone IS NULL;
+SELECT * FROM contacts WHERE phone ISNULL;
 ```
 **Результат:** Иван (у него нет номера).  
 
@@ -333,7 +333,7 @@ SELECT * FROM contacts WHERE phone IS NOT NULL;
 ```sql
 SELECT * 
 FROM bookings.flights 
-WHERE actual_departure IS NULL;
+WHERE actual_departure ISNULL;
 ```
 
 Выберем рейсы, которые уже вылетели:  
@@ -350,4 +350,4 @@ WHERE actual_departure IS NOT NULL;
 - **ORDER BY** сортирует их  
 - **LIMIT** ограничивает количество строк  
 - **WHERE** фильтрует данные  
-- **NULL** требует особых проверок (`IS NULL`, `IS NOT NULL`)
+- **NULL** требует особых проверок (`ISNULL`, `IS NOT NULL`)
