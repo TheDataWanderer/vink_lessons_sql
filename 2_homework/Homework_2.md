@@ -15,7 +15,7 @@
 7. Определите минимальную (MIN(amount)) и максимальную (MAX(amount)) цену билетов в bookings.ticket_flights. 
 8. Выведите количество билетов, сгруппировав их по классу обслуживания (fare_conditions) в bookings.ticket_flights. 
 9. Для каждого аэропорта вылета (departure_airport) посчитайте количество рейсов в bookings.flights. 
-10. Вычислите среднее время между scheduled_departure и scheduled_arrival в таблице bookings.flights. 
+10. Вычислите среднее время между scheduled_departure и scheduled_arrival в таблице bookings.flights.   
 **Продвинутые задачи**  
 11. Выведите 5 аэропортов с наибольшим количеством вылетов, отсортировав их по убыванию. 
 12. Рассчитайте долю отмененных рейсов (status = 'Cancelled') от общего количества рейсов в таблице bookings.flights. 
