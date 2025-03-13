@@ -36,4 +36,4 @@
 - [pgAdmin](https://www.pgadmin.org/) — Графический инструмент для управления PostgreSQL.
 - [DBeaver](https://dbeaver.io/download/) — Графический инструмент для управления PostgreSQL.
 - [Explain PostgreSQL](https://explain.tensor.ru/) — Визуализация плана выполнения запросов.
-- [# Postgres Explain Visualizer](https://www.pgexplain.dev/) — Визуализация плана выполнения запросов.
+- [Postgres Explain Visualizer](https://www.pgexplain.dev/) — Визуализация плана выполнения запросов.
