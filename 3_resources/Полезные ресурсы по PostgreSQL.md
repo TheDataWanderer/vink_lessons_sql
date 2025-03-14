@@ -8,6 +8,7 @@
 - [SQL. Быстрое погружение](https://www.ozon.ru/product/sql-bystroe-pogruzhenie-pdf-epub-shilds-uolter-elektronnaya-kniga-936108809/?at=57tw19Z5QcnYyJJT6WY7z7T8L1Voos5EPPOwfQBJnql) — С этой книги можно начать изучение SQL.
 - [Оптимизация запросов в PostgreSQL](https://www.ozon.ru/product/optimizatsiya-zaprosov-v-postgresql-dombrovskaya-g-r-novikov-boris-1798385340/?at=LZtl29RypIMVl154um2xpKACKMnjo6IqO3DmwTQrEPgG) — Отличная книга для оптимизации запросов в PostgreSQL.
 - [Учебник по SQL: LearnDB](https://learndb.ru/articles)
+- [Руководство по PostgreSQL](https://metanit.com/sql/postgresql/)
 
 ## 📝 Блоги и статьи
 - [Телеграмм канал: "Гайды по БД и SQL"](https://t.me/learn_bd_sql)
